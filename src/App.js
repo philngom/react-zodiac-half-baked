@@ -3,7 +3,6 @@ import Header from './Header/Header'
 import Footer from './Footer/Footer'
 import Main from './Main/Main'
 import { zodiac } from './data'
-console.log(zodiac)
 function App() {
   return (
     <div className="App">

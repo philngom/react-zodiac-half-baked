@@ -4,7 +4,6 @@ import './Main.css'
 import ZodiacCard from '../ZodiacCard/ZodiacCard'
 
 export default function Main(props) {
-  console.log(props)
   return (
     <main style={{ backgroundImage: `url(${backgroundImg})` }}>
       {
